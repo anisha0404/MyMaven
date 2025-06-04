@@ -10,4 +10,4 @@ steps:
 - script: mvn clean install
   displayName: 'Build with maven'
 - script: java -jar target/MyMavenApp-1.0-SNAPSHOT.jar
-  displayName: 'Running jar'
+  displayName: 'Running jar' 
